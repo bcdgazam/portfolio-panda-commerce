@@ -1,0 +1,41 @@
+.container {
+    margin-bottom: 80px;
+}
+.slider-area-bg{
+    background-color: #FEEAE9;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.price{
+    color: #EA4689;
+}
+
+.buy-now{
+    background-image: linear-gradient(to bottom, #EC2F7A 0%, #cf286b 100%);
+    color: #fff;
+    font-size: 15px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.watch-area, .bags-area, .shoes-area{
+    background-image: linear-gradient(to bottom, #EC2F7A 0%, #cf286b 100%);
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.watch-area img, .bags-area img, .shoes-area img{
+    width: 30%;
+}
+
+.bags-area{
+    background-image: linear-gradient(to bottom, #FFC320 0%, #cf286b 100%);
+}
+
+.shoes-area{
+    background-image: linear-gradient(to bottom, #3400FD 0%, #cf286b 100%);
+}
