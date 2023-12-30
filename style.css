@@ -39,3 +39,8 @@
 .shoes-area{
     background-image: linear-gradient(to bottom, #3400FD 0%, #cf286b 100%);
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px #ddd;
+}
