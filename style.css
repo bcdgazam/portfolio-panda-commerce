@@ -63,5 +63,9 @@
 .subscription-label {
     font-weight: normal;
     color: #333;
-  }
+}
+
+.footer-area {
+    margin-bottom: 0px;
+}
   
