@@ -44,3 +44,7 @@
     border: none;
     box-shadow: 5px 5px 10px #ddd;
 }
+
+.card-footer button {
+    margin-top: 0px;
+}
