@@ -48,3 +48,20 @@
 .card-footer button {
     margin-top: 0px;
 }
+
+.contact-area {
+    background-color: #FEEAE9;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.button-style{
+    background-image: linear-gradient(to bottom, #EC2F7A 0%, #cf286b 100%);
+    border: none;
+}
+
+.subscription-label {
+    font-weight: normal;
+    color: #333;
+  }
+  
